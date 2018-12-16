@@ -1,0 +1,198 @@
+{
+  "normal":[
+    {
+      "menuId": 1,
+      "menuName": "首页",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "home-index",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务动态",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "1",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务公开",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "2",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "网上办事",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "3",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务数据",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "4",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "效能观察",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "5",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "咨询互动",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "6",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "用户中心",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "home-member-center-index",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    }
+  ],
+  "pro":[
+    {
+      "menuId": 1,
+      "menuName": "首页",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "home-index",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务动态",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "1",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务公开",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "2",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "网上办事",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "3",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务数据",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "4",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "效能观察",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "5",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "咨询互动",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "6",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "用户中心",
+      "parentId": 1,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "home-member-center-index",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    }
+  ]
+}

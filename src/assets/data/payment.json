@@ -1,0 +1,45 @@
+{
+  "page": {
+    "title": "支付缴费",
+    "maxStep": 5,
+    "fullModel": {
+      "url":""
+    }
+  },
+  "elements": [
+    {
+      "type": "box",
+      "minHeight": 600,
+      "data": [
+        {
+          "type": "steps",
+          "data": {
+            "current": 3,
+            "steps": [
+              {
+                "title": "填写资料"
+              },
+              {
+                "title": "上传附件"
+              },
+              {
+                "title": "提交审核"
+              },
+              {
+                "title": "支付缴费"
+              },
+              {
+                "title": "已办结"
+              }
+            ]
+          }
+        },
+        {
+          "type": "iframe",
+          "data": {
+          }
+        }
+      ]
+    }
+  ]
+}

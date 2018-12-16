@@ -1,0 +1,735 @@
+{
+  "0": [
+    {
+      "menuId": 1,
+      "menuName": "首页",
+      "parentId": 1,
+      "isVue": true,
+      "url": "",
+      "menuCode": "home1030",
+      "icon": "",
+      "contentPath": "",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务动态",
+      "parentId": 1,
+      "isVue": true,
+      "url": "",
+      "menuCode": "home-procceeds-public-list",
+      "icon": "",
+      "contentPath": "",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务公开",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "2",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "网上办事",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "3",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务数据",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "4",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "效能观察",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "5",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "咨询互动",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "6",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "用户中心",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "home-member-center-index",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+        {
+          "menuId": 5,
+          "menuName": "用户中心",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-index",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的办件",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-banjian",
+          "icon": "ios-people",
+          "contentPath": "dwixk",
+          "domain": "",
+          "subMenus": [
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的证照",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-licence",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "用户管理",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-personalUser",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的评价",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-evaluate-my",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的资料",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-ziliao",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的投诉",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-suggestion-complain-list",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的咨询",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-suggestion-consult-list",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的建议",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-suggestion-suggest-list",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的收藏",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-collection",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        }
+      ]
+    }
+
+  ],
+  "1": [
+    {
+      "menuId": 1,
+      "menuName": "首页",
+      "parentId": 1,
+      "isVue": true,
+      "url": "",
+      "menuCode": "home1030",
+      "icon": "",
+      "contentPath": "",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务动态",
+      "parentId": 1,
+      "isVue": true,
+      "url": "",
+      "menuCode": "home-procceeds-public-list",
+      "icon": "",
+      "contentPath": "",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务公开",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "2",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "网上办事",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "3",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务数据",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "4",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "效能观察",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "5",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "咨询互动",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "6",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "用户中心",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "home-member-center-index",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+        {
+          "menuId": 5,
+          "menuName": "用户中心",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-index",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的办件",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-banjian",
+          "icon": "ios-people",
+          "contentPath": "dwixk",
+          "domain": "",
+          "subMenus": [
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的证照",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-licence",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "用户管理",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-personalUser",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的评价",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-evaluate-my",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的资料",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-ziliao",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的投诉",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-suggestion-complain-list",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的建议",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-suggestion-suggest-list",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的咨询",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-suggestion-consult-list",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的收藏",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-collection",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "2":[
+    {
+      "menuId": 1,
+      "menuName": "首页",
+      "parentId": 1,
+      "isVue": true,
+      "url": "",
+      "menuCode": "home1030",
+      "icon": "",
+      "contentPath": "",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务动态",
+      "parentId": 1,
+      "isVue": true,
+      "url": "",
+      "menuCode": "home-procceeds-public-list",
+      "icon": "",
+      "contentPath": "",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务公开",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "2",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "网上办事",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "3",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "政务数据",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "4",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "效能观察",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "5",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "咨询互动",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "6",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+      ]
+    },
+    {
+      "menuId": 5,
+      "menuName": "用户中心",
+      "parentId": 1,
+      "isVue": true,
+      "url": "http://pmdozez.hk/gqetntec",
+      "menuCode": "home-member-center-index",
+      "icon": "",
+      "contentPath": "dwixk",
+      "domain": "",
+      "subMenus": [
+        {
+          "menuId": 5,
+          "menuName": "用户中心",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-index",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的办件",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-banjian",
+          "icon": "ios-people",
+          "contentPath": "dwixk",
+          "domain": "",
+          "subMenus": [
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的证照",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-licence",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "用户管理",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-personalUser",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的评价",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-evaluate-my",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的资料",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-ziliao",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的投诉",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-suggestion-complain-list",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的建议",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-suggestion-suggest-list",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的咨询",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-suggestion-consult-list",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        },
+        {
+          "menuId": 5,
+          "menuName": "我的收藏",
+          "parentId": 1,
+          "isVue": true,
+          "url": "",
+          "menuCode": "home-member-center-collection",
+          "icon": "ios-people",
+          "contentPath": "",
+          "domain": "",
+          "subMenus": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}
